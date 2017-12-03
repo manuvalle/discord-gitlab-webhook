@@ -1,0 +1,16 @@
+{
+    "require": {
+        "nopjmp/discord-webhooks": "^0.2.2",
+        "vlucas/phpdotenv": "^2.4",
+        "php": ">=5.4"
+    },
+    "keywords": ["gitlab", "webhook", "discord"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manuel Valle",
+            "email": "manu@estilate.com",
+            "homepage": "https://estilate.com"
+        }
+    ]
+}
